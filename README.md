@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ███████╗██████╗ ███████╗████████╗
-██║  ██║██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝
-███████║███████║███████╗██████╔╝█████╗     ██║   
-██╔══██║██╔══██║╚════██║██╔══██╗██╔══╝     ██║   
-██║  ██║██║  ██║███████║██║  ██║███████╗   ██║   
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
-```
-
 ### DevOps Engineer · Kocaeli, Turkey
 *Building resilient infrastructure, automating everything in between.*
 
@@ -21,7 +12,7 @@
 
 ## 🚀 About Me
 
-DevOps Engineer with **2+ years of production experience** designing and maintaining scalable infrastructure. I've shipped real systems — not just tutorials. My work at Galaksiya spans container orchestration, CI/CD automation, observability stacks, and infrastructure-as-code across multiple production projects.
+DevOps Engineer with **2+ years of production experience** designing and maintaining scalable infrastructure. I've shipped real systems — not just tutorials. Spans container orchestration, CI/CD automation, observability stacks, and infrastructure-as-code across multiple production projects.
 
 I believe great infrastructure is **invisible** — it just works, scales, and recovers by itself.
 
@@ -82,19 +73,6 @@ Full monitoring & logging stack with Docker Compose — ready to clone and run.
 - **Stack:** Prometheus · Grafana · Elasticsearch · Filebeat · Kibana
 - **Highlights:** Pre-configured dashboards, alerting rules, log aggregation
 
----
-
-## 💼 Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| Jul 2023 – Jun 2025 | DevOps Engineer | Galaksiya Bilişim, İzmir |
-| Jun 2021 – Dec 2022 | Frontend Developer | Magna International, Kocaeli |
-| Oct 2020 – Jan 2021 | Software Engineer (Trainee) | Bimser Çözüm, Kocaeli |
-
-**At Galaksiya**, I worked on production systems including **Deepin**, **Twinize**, and **Time Reactor** — handling everything from container orchestration to real-time monitoring and zero-downtime deployments.
-
----
 
 ## 🎓 Education & Certifications
 
