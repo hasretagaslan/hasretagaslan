@@ -83,19 +83,6 @@ Full monitoring & logging stack with Docker Compose — ready to clone and run.
 📜 Full-Stack Web Development Bootcamp — Udemy, 2023  
 📜 .NET / C# Developer Training — Bimser Akademi, 2022  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hasret's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasretagaslan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasretagaslan&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
